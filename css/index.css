@@ -1,0 +1,25 @@
+.ccontainer {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.infoImage {
+	width:100%;
+	height:300px;
+}
+
+#homeHeader {
+  font-size: 50px;
+  color: black;
+  border-radius: 10px;
+  padding: 47px;
+  background-color: rgba(255,255,255,0.7);
+}

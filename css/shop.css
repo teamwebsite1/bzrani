@@ -1,0 +1,57 @@
+#shopHeaderImage {
+	height: 300px;
+	width: 100%;
+}
+
+.productImage {
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin: 0 auto;
+}
+
+.productInfoImage {
+	width: 500px;
+	height: 200px;
+	display: block;
+	margin: 0 auto;
+}
+
+.productPriceContainer {
+	text-align: center;
+}
+
+.productPrice {
+/*
+	border-radius: 50%;
+	background-color: black;
+	color: white;
+	padding:6px;
+	margin: 0 auto;
+*/
+	font-family: italic;
+}
+
+.smallPadding {
+	margin-top: 10px;
+}
+
+.hover:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.productInfo {
+	padding-top: 10px;
+	text-align: center;
+}
+
+.noMarginBottom {
+	margin-bottom: 0px;
+}
+
+.buyButton {
+	margin: 0 auto;
+	display: block;
+	margin-bottom: 20px;
+}
