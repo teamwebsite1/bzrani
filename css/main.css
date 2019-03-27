@@ -49,3 +49,7 @@
 body {
   font-family: sans-serif; 
 }
+/* nav link on mobile */
+.nav-link {
+  text-align: center;
+}
